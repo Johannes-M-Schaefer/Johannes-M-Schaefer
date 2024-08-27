@@ -1,94 +1,94 @@
 # 🖐️ Introduction
 
-Hallo! Ich bin Johannes Schaefer, ein passionierter Frontend-Entwickler mit einem starken Fokus auf Webentwicklung und einer großen Begeisterung für innovative Technologien. Mein berufliches Ziel ist es, meine Fähigkeiten im Frontend weiter zu vertiefen und Erfahrungen im Backend zu sammeln, um schließlich als Gruppenleiter in einem agilen Scrum-Team zu arbeiten oder die Rolle des Product Owners zu übernehmen.
+Hello! I am Johannes Schaefer, a passionate frontend developer with a strong focus on web development and a great enthusiasm for innovative technologies. My career goal is to further deepen my skills in frontend development and gain experience in backend development, ultimately working as a team leader in an agile Scrum team or taking on the role of a Product Owner.
 
-Mein Interesse an der IT, insbesondere an der Webentwicklung, wurde während meiner Lehrerausbildung geweckt, als ich ein Projekt plante: die Entwicklung einer Applikation, die das Bildungssystem revolutionieren könnte. Diese App sollte dazu beitragen, den Lehrermangel zu bekämpfen und die Bildung ökonomischer und effektiver zu gestalten. Dieser Antrieb, eine Lösung für ein reales Problem zu entwickeln und zur Perfektion zu bringen, motivierte mich, meine Karriere in die IT zu verlagern.
+My interest in IT, particularly web development, was sparked during my teacher training when I planned a project: the development of an application that could revolutionize the education system. This app was intended to help combat teacher shortages and make education more economical and effective. This drive to develop a solution to a real-world problem and bring it to perfection motivated me to shift my career to IT.
 
-Während meiner Weiterbildung zum Frontend-Entwickler bei der Developer Akademie habe ich fundierte Kenntnisse in HTML, CSS und JavaScript erworben und arbeite derzeit an der Entwicklung einer WebApp, die die Organisation von Teamarbeitsprozessen optimiert. Meine Fähigkeit, technisches Wissen mit Führungsqualitäten zu verbinden, hat sich bereits in meiner Zeit als Lehramtsstudent und in meiner Gruppenleitungsfunktion bewährt. Diese Fähigkeiten möchte ich weiter ausbauen, indem ich in IT-Projekten Verantwortung übernehme und meine Kenntnisse in Bereichen wie Backend-Entwicklung, Datenanalyse, Künstlicher Intelligenz (KI), DevOps und Cloud Computing vertiefe.
+During my training as a frontend developer at the Developer Academy, I acquired solid skills in HTML, CSS, and JavaScript and am currently working on developing a web app that optimizes the organization of team work processes. My ability to combine technical knowledge with leadership skills has already proven valuable during my time as a teaching student and in my role as a group leader. I aim to further expand these skills by taking on responsibilities in IT projects and deepening my knowledge in areas such as backend development, data analysis, artificial intelligence (AI), DevOps, and cloud computing.
 
-Ich bin bestrebt, Projekte effizient und zielgerichtet voranzutreiben, mit einem klaren Fokus auf Teamarbeit, Qualität und Innovation. Die Möglichkeit, an der Schnittstelle von Technik und Teamführung zu arbeiten und Projekte von der Konzeption bis zur Perfektion zu bringen, begeistert mich besonders.
+I am committed to driving projects forward efficiently and purposefully, with a clear focus on teamwork, quality, and innovation. The opportunity to work at the intersection of technology and team leadership and to bring projects from conception to perfection excites me the most.
 
-## 🎯 Über mich
+## 🎯 About Me
 
-- **Berufsbezeichnung**: Frontend-Entwickler
-- **Erfahrung**: 1+ Jahr in der Webentwicklung
-- **Spezialisierung**: Frontend-Entwicklung, Webapplikationen, agile Methoden
-- **Ziel**: Erfahrungen im Backend sammeln und Führungsaufgaben übernehmen, möglicherweise als Scrum Master oder Product Owner
-- **Hobbys/Interessen**: Open-Source-Entwicklung, kontinuierliche Weiterbildung in neuen Webtechnologien, Projektmanagement
+- **Job Title**: Frontend Developer
+- **Experience**: 1+ years in web development
+- **Specialization**: Frontend development, web applications, agile methods
+- **Goal**: To gain experience in backend development and take on leadership roles, possibly as a Scrum Master or Product Owner
+- **Hobbies/Interests**: Open-source development, continuous learning in new web technologies, project management
 
-## 🛠️ Fähigkeiten
+## 🛠️ Skills
 
-- **Programmiersprachen**: HTML, CSS, JavaScript, Java, Groovy
-- **Technologien & Tools**: Git, API-Integration, Bootstrap, Angular, Blackbox AI, ChatGPT
-- **Methoden**: Agile Entwicklung, Scrum, Test Driven Development, Nutzerzentriertes Design
-- **Sonstige Kompetenzen**: Gruppenleitung, Präsentation, didaktische Vermittlung von komplexen Themen
+- **Programming Languages**: HTML, CSS, JavaScript, Java, Groovy
+- **Technologies & Tools**: Git, API integration, Bootstrap, Angular, Blackbox AI, ChatGPT
+- **Methods**: Agile development, Scrum, Test Driven Development, user-centered design
+- **Other Competencies**: Group leadership, presentation, didactic communication of complex topics
 
-## 📈 Projekte
+## 📈 Projects
 
 ### JOIN WebApp
-- **Beschreibung**: Entwicklung einer WebApp zur Organisation von Teamarbeitsprozessen, um die Effizienz und Zusammenarbeit innerhalb von Teams zu verbessern.
-- **Technologien**: HTML, CSS, JavaScript, Firebase für die Datenbankverwaltung.
-- **Rolle**: Frontend-Entwicklung und Integration von Funktionen wie Registrierungs- und Login-Mechanismen, Kontaktbuch und Aufgabenverwaltung.
-- **Herausforderungen und Erfolge**:
-  - Entwicklung einer skalierbaren und benutzerfreundlichen Oberfläche.
-  - Optimierung der Datenbankabfragen zur Verbesserung der Leistung.
-  - Implementierung einer sicheren Authentifizierungs- und Autorisierungslogik.
+- **Description**: Development of a web app to organize team work processes, aimed at improving efficiency and collaboration within teams.
+- **Technologies**: HTML, CSS, JavaScript, Firebase for database management.
+- **Role**: Frontend development and integration of features such as registration and login mechanisms, contact book, and task management.
+- **Challenges and Achievements**:
+  - Development of a scalable and user-friendly interface.
+  - Optimization of database queries to improve performance.
+  - Implementation of secure authentication and authorization logic.
 
-### OER-Lernmodul mit H5P-Elementen
-- **Beschreibung**: Entwicklung eines Open Educational Resource (OER) Lernmoduls zur Unterstützung des digitalen Lernens.
-- **Technologien**: H5P, HTML, CSS
-- **Rolle**: Implementierung interaktiver Lernelemente und Integration in bestehende Lernplattformen.
-- **Herausforderungen und Erfolge**:
-  - Erstellung und Integration interaktiver Lerninhalte zur Verbesserung des Online-Lernens.
-  - Anpassung der Module für eine nahtlose Benutzererfahrung auf verschiedenen Lernplattformen.
+### OER Learning Module with H5P Elements
+- **Description**: Development of an Open Educational Resource (OER) learning module to support digital learning.
+- **Technologies**: H5P, HTML, CSS
+- **Role**: Implementation of interactive learning elements and integration into existing learning platforms.
+- **Challenges and Achievements**:
+  - Creation and integration of interactive learning content to enhance online learning.
+  - Adapting the modules for a seamless user experience across various learning platforms.
 
-## 📚 Ausbildung
+## 📚 Education
 
-- **Weiterbildung**: Frontend Webentwicklung, Developer Akademie (seit 07/2023)
-- **Master of Education (Gym/Ge)**: Universität zu Köln (seit 2021) – Fokus auf dem Einsatz von Technologie in der Bildung, einschließlich der Entwicklung von E-Learning-Tools.
-- **Bachelor of Arts (Gym/Ge)**: Universität zu Köln & Sporthochschule (10/2017 - 08/2021) – Erworbenes Wissen in Wissenschaftskommunikation und Teamführung.
-- **Bachelor of Science (B.Sc.)**: Sporthochschule Köln (04/2013 - 07/2018) – Schwerpunkt auf Gesundheit und Ernährung, Abschlussarbeit zur Auswirkung von Elektromyostimulationstraining auf Muskelproteine.
+- **Training**: Frontend Web Development, Developer Academy (since 07/2023)
+- **Master of Education (Gym/Ge)**: University of Cologne (since 2021) – Focus on the use of technology in education, including the development of e-learning tools.
+- **Bachelor of Arts (Gym/Ge)**: University of Cologne & Sports University (10/2017 - 08/2021) – Gained knowledge in science communication and team leadership.
+- **Bachelor of Science (B.Sc.)**: Sports University Cologne (04/2013 - 07/2018) – Focus on health and nutrition, thesis on the impact of electromyostimulation training on muscle proteins.
 
-## 💼 Berufserfahrung in der IT
+## 💼 Professional Experience in IT
 
-### Developer Akademie (seit 07/2023 - laufend)
-- **Position**: Frontend Webentwickler
-- **Verantwortlichkeiten**:
-  - Entwicklung und Gestaltung dynamischer Webapplikationen unter Nutzung moderner Webtechnologien.
-  - Umsetzung von Benutzeroberflächen mit HTML, CSS, JavaScript sowie Frameworks wie Angular und Bootstrap.
-  - Integration von APIs zur Erweiterung der Funktionalitäten von Webanwendungen.
-  - Nutzung von Git für Versionskontrolle und Zusammenarbeit im Entwicklungsteam.
-  - Bearbeitung kleinerer Projekte, einschließlich der Nachbildung bekannter Plattformen wie "Lieferando", "Instagram" und "Chefkoch", um spezielle Webentwicklungsfähigkeiten wie Webshop-Design, Kommentarfunktion und Zutatenrechner zu erlernen.
+### Developer Academy (since 07/2023 - ongoing)
+- **Position**: Frontend Developer
+- **Responsibilities**:
+  - Development and design of dynamic web applications using modern web technologies.
+  - Implementation of user interfaces with HTML, CSS, JavaScript, and frameworks like Angular and Bootstrap.
+  - Integration of APIs to enhance web application functionality.
+  - Use of Git for version control and collaboration within the development team.
+  - Engagement in smaller projects, including recreating popular platforms like "Lieferando," "Instagram," and "Chefkoch," to learn specific web development skills such as webshop design, commenting functionality, and ingredient calculators.
 
-### Selbstständige Weiterbildung in IT und Programmierung
-- **Aktivitäten**:
-  - Erwerb fortgeschrittener Kenntnisse in Java und Groovy zur Erweiterung der Backend-Fähigkeiten.
-  - Vertiefung des Wissens in der Arbeit mit modernen Webtechnologien und Tools zur Unterstützung von IT-Projekten.
+### Self-Study in IT and Programming
+- **Activities**:
+  - Acquired advanced skills in Java and Groovy to expand backend capabilities.
+  - Deepened knowledge in working with modern web technologies and tools to support IT projects.
 
-## 💼 Berufserfahrung in der Gruppenleitung
+## 💼 Experience in Group Leadership
 
-### Vertretungslehrer an der Gertrud-Koch-Gesamtschule, Troisdorf (08/2021 bis 02/2022)
-- **Position**: Vertretungslehrer
-- **Verantwortlichkeiten**:
-  - Anleitung von fünf Schulklassen der Sekundarstufe I.
-  - Planung, Erarbeitung und Nachbereitung von Unterricht in den Fächern Naturwissenschaften, Chemie und Sport.
-  - Führung und Motivation von Schülergruppen, Förderung von Teamarbeit und sozialem Lernen.
+### Substitute Teacher at Gertrud-Koch Comprehensive School, Troisdorf (08/2021 to 02/2022)
+- **Position**: Substitute Teacher
+- **Responsibilities**:
+  - Guided five secondary school classes.
+  - Planned, developed, and reviewed lessons in science, chemistry, and sports.
+  - Led and motivated student groups, promoting teamwork and social learning.
 
-### Praxissemester am Heinrich-Böll-Gymnasium, Troisdorf (02/2022 bis 08/2022)
-- **Position**: Lehramtspraktikant
-- **Verantwortlichkeiten**:
-  - Durchführung eines Forschungsprojekts in der Chemie-Didaktik.
-  - Leitung von Unterrichtsklassen und Anleitung von Schülergruppen.
-  - Erarbeitung und Planung von Unterrichtsmaterialien, Förderung von interaktiven und kollaborativen Lernansätzen.
+### Practical Semester at Heinrich Böll High School, Troisdorf (02/2022 to 08/2022)
+- **Position**: Teaching Intern
+- **Responsibilities**:
+  - Conducted a research project in chemistry didactics.
+  - Managed classroom teaching and guided student groups.
+  - Developed and planned teaching materials, promoting interactive and collaborative learning approaches.
 
-## 📞 Kontakt
+## 📞 Contact
 
-Ich freue mich immer über interessante Gespräche und neue Kontakte! Sie können mich unter folgenden Wegen erreichen:
+I am always open to interesting conversations and new contacts! You can reach me through the following channels:
 
-- **E-Mail**: j.m.schaefer@proton.me
-- **LinkedIn**: [Link zu deinem LinkedIn-Profil]
-- **GitHub**: [Link zu deinem GitHub-Profil]
+- **Email**: j.m.schaefer@proton.me
+- **LinkedIn**: [Link to your LinkedIn profile]
+- **GitHub**: [Link to your GitHub profile]
 
-## 🌟 Weitere Informationen
+## 🌟 Additional Information
 
-Falls Sie mehr über mich erfahren möchten oder Fragen zu meinen Projekten haben, zögern Sie nicht, mich zu kontaktieren. Ich freue mich darauf, von Ihnen zu hören!
+If you would like to know more about me or have any questions about my projects, please do not hesitate to contact me. I look forward to hearing from you!
