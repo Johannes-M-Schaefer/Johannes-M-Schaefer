@@ -86,8 +86,8 @@ I am committed to driving projects forward efficiently and purposefully, with a 
 I am always open to interesting conversations and new contacts! You can reach me through the following channels:
 
 - **Email**: j.m.schaefer@proton.me
-- **LinkedIn**: [Link to your LinkedIn profile]
-- **GitHub**: [Link to your GitHub profile]
+- **LinkedIn**: www.linkedin.com/in/johannes-m-schaefer
+- **GitHub**: https://github.com/Johannes-M-Schaefer/
 
 ## 🌟 Additional Information
 
